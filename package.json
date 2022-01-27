@@ -1,5 +1,5 @@
 {
-  "name": "movies-js-ui",
+  "name": "movies-vue-ts-ui",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
